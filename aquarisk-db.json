@@ -1,0 +1,1 @@
+{"thresholds":{"rainfall_moderate":15,"rainfall_high_risk":35,"rainfall_critical":60,"water_level_moderate":150,"water_level_high_risk":220,"water_level_critical":300,"flow_moderate":30,"flow_high_risk":50,"flow_critical":70},"demoMode":true,"demoScenario":"NORMAL","readings":[],"alerts":[],"nextReadingId":60,"nextAlertId":1}
